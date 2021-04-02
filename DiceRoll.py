@@ -27,6 +27,7 @@ while True:
         print('Invalid move\nPlease Make Correct Choice!!! ')
 print(f'you roll a Dice for {count} times')
 print('The Final Position Of Dice is: \n')
+r.dice(res)
 
 
 
